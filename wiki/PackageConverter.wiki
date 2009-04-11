@@ -9,7 +9,7 @@ Package Converter is  written using _Realbasic_.
 
 * Softpedia Download and review page *
 
-[http://linux.softpedia.com/get/System/Software-Distribution/Package-Converter-46633.shtml Package Converter]
+[http://linux.softpedia.com/get/System/Software-Distribution/Package-Converter-46633.shtml http://www.softpedia.com/images/softpedia_download_small.gif]
 
 ==Requirements:==
 
