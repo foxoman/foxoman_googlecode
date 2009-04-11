@@ -9,8 +9,8 @@ Package Converter is  written using Realbasic.
 
 =Requirements:=
 
-* Alien
-* Fakeroot
+# Alien  
+# Fakeroot  
 
 version 2.0.0.1
 
@@ -25,4 +25,20 @@ http://www.ubuntu-pics.de/bild/12345/screenshot_37_wCcN2v.png
 alien is a program that converts between Red Hat rpm, Debian deb, Stampede slp, Slackware tgz, and Solaris pkg file formats. If you want to use a
        package from another linux distribution than the one you have installed on your system, you can use alien to convert it to your preferred package
        format and install it. It also supports LSB packages.
+}}}
+
+* Options *
+{{{
+       --nopatch	    Do not use patches.
+       --anypatch           Use even old version os patches.
+       --single             Like --generate, but do not create .orig
+                            directory.
+       --fixperms           Munge/fix permissions and owners.
+       --test               Test generated packages with lintian.
+      --install             Install generated package.
+      --generate            Generate build tree, but do not build package.
+      --scripts             Include scripts in package.
+      --verbose             Display each command alien runs.
+      --keep-version        Do not change version of generated package.
+      --bump=number         Increment package version by this number.
 }}}
