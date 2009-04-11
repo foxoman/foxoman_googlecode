@@ -1,0 +1,28 @@
+#labels Featured,Phase-Implementation,Phase-Requirements
+=== Package Converter ===
+
+=_Frontend for Alien_=
+
+Package Converter is an Alien GUI to convert between Unix/Linux packages. It will allow you to convert deb to rpm and so on.
+
+Package Converter is  written using Realbasic.
+
+=Requirements:=
+
+* Alien
+* Fakeroot
+
+version 2.0.0.1
+
+=Screenshot=
+
+http://www.ubuntu-pics.de/bild/12345/screenshot_37_wCcN2v.png
+
+
+* about alien *
+
+{{{
+alien is a program that converts between Red Hat rpm, Debian deb, Stampede slp, Slackware tgz, and Solaris pkg file formats. If you want to use a
+       package from another linux distribution than the one you have installed on your system, you can use alien to convert it to your preferred package
+       format and install it. It also supports LSB packages.
+}}}
