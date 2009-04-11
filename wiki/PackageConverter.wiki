@@ -3,7 +3,7 @@
 
 ==_Frontend for Alien_==
 
-Package Converter is an Alien GUI to convert between _Unix/Linux_ packages. It will allow you to convert deb to rpm and so on.
+Package Converter is an Alien GUI to convert between _Unix/Linux_ packages. It will allow you to convert deb to rpm and more .
 
 Package Converter is  written using _Realbasic_.
 
@@ -61,3 +61,7 @@ _ie : you want to convert opera.deb file to rpm in home folder_
 First , select opera.deb . and then select home folder to save the result file.
 
 Then , select rpm in package type list , and click convert !
+
+* Bug Report *
+
+Feel Free to report any bugs or suggestion in [http://code.google.com/p/foxoman/issues/list issues] page 
