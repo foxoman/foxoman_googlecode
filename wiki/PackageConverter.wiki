@@ -3,9 +3,9 @@
 
 ==_Frontend for Alien_==
 
-Package Converter is an Alien GUI to convert between Unix/Linux packages. It will allow you to convert deb to rpm and so on.
+Package Converter is an Alien GUI to convert between _Unix/Linux_ packages. It will allow you to convert deb to rpm and so on.
 
-Package Converter is  written using Realbasic.
+Package Converter is  written using _Realbasic_.
 
 ==Requirements:==
 
