@@ -47,6 +47,9 @@ alien is a program that converts between Red Hat rpm, Debian deb, Stampede slp, 
 
 * How to use *
 
+Download the binary _executable file_ from the [http://code.google.com/p/foxoman/downloads/detail?name=Package%20Converter-2.0.0.1&can=2&q= download] section, and run it by double click .
+
+
 Simply select your package file you want to convert , and select the folder you want to save the result file to. Then , select package type you want to convert to .
 
 _ie : you want to convert opera.deb file to rpm in home folder_
