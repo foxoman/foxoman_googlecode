@@ -10,11 +10,12 @@ Package Converter is  written using Realbasic.
 =Requirements:=
 
 # Alien  
+
 # Fakeroot  
 
-version 2.0.0.1
-
 =Screenshot=
+
+version 2.0.0.1
 
 http://www.ubuntu-pics.de/bild/12345/screenshot_37_wCcN2v.png
 
@@ -28,6 +29,7 @@ alien is a program that converts between Red Hat rpm, Debian deb, Stampede slp, 
 }}}
 
 * Options *
+
 {{{
        --nopatch	    Do not use patches.
        --anypatch           Use even old version os patches.
@@ -42,3 +44,12 @@ alien is a program that converts between Red Hat rpm, Debian deb, Stampede slp, 
       --keep-version        Do not change version of generated package.
       --bump=number         Increment package version by this number.
 }}}
+
+* How to use *
+
+Simply select your package file you want to convert , and select the folder you want to save the result file to. Then , select package type you want to convert to .
+
+_ie : you want to convert opera.deb file to rpm in home folder_
+
+firs , choose opera.deb . and then select home folder to save the result file.
+Then , select rpm in package type list , and click convert !
