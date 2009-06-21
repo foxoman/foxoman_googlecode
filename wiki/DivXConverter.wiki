@@ -1,0 +1,60 @@
+#labels Phase-Deploy,Phase-Requirements
+
+DivX Converter 1.0.0 final Release :
+
+===Screenshot :===
+
+http://img20.imageshack.us/img20/8672/screenshot002s.png
+
+== Description and Overview ==
+
+DivX converter is a simple Mencoder GUI to Produce DivX Player Compatible video format with subtitle attach . It support Copy AVI ( Same parameters as source file ) , HDTV, NTSC and PAL format .
+
+*Download the documentation :* 
+
+http://foxoman.googlecode.com/files/divx-doc.pdf
+
+===List Of Feature :===
+  #  Easy GUI
+  #  Convert variety type of video format to avi LIKE : ra;ram;rm;rmvb;moov;mov;qt;mqv;ogg;ogv;m4v;dv;dif;wmv;wma;wm;asf;ass;wvx;wmx;wax;asx;mpe;mpeg;mpg;m1s;m1v;m1a;m75;m15;mp2;mpm;mpv;mpa;3gp;3gpp;avi;vfw;avi;sdv;dat;flv
+  #  Has many different filters to convert to LIKE : High Quality DivX ,  HDTV , NTSC , PAL and Custom  AVI filters.
+  #  You can merge your subtitle to your favorite video, with many encoding support .
+  #  Drag and drop support.
+
+===Dependency :===
+mencoder
+xterm
+lame
+xvid
+fribidi
+other codecs .
+Hint :  In usual cases the application will install these component it self but if you encounter any problem check these dependency manually .
+
+{{{
+If You encounter any problem with dependency install this repo
+ubuntu 9.04 juanty
+deb http://ppa.launchpad.net/rvm/libs/ubuntu jaunty main
+deb http://ppa.launchpad.net/rvm/mplayer/ubuntu jaunty main
+deb http://ppa.launchpad.net/rvm/smplayer/ubuntu jaunty main
+
+ubuntu 8.10 interpid
+deb http://ppa.launchpad.net/rvm/libs/ubuntu intrepid main
+deb http://ppa.launchpad.net/rvm/mplayer/ubuntu intrepid main
+deb http://ppa.launchpad.net/rvm/smplayer/ubuntu intrepid main
+
+ubuntu 8.04 hardy
+deb http://ppa.launchpad.net/rvm/libs/ubuntu hardy main
+deb http://ppa.launchpad.net/rvm/mplayer/ubuntu hardy main
+deb http://ppa.launchpad.net/rvm/smplayer/ubuntu hardy main
+
+}}}
+== download ==
+
+Redhat package 
+
+http://foxoman.googlecode.com/files/divxconverter-1.0.0f1-2.i386.rpm
+
+
+Debian package
+
+http://foxoman.googlecode.com/files/divxconverter-1.0.0f1-2.i386.deb
