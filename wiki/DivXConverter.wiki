@@ -1,5 +1,4 @@
-#labels Phase-Deploy,Phase-Requirements
-
+#labels Phase-Deploy,Phase-Requirements,Featured
 DivX Converter 1.0.0 final Release :
 
 ===Screenshot :===
