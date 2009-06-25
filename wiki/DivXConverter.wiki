@@ -1,6 +1,12 @@
 #labels Phase-Deploy,Phase-Requirements,Featured
 DivX Converter 1.0.0 final Release :
 
+
+*This Application is approved by softpedia *
+
+http://linux.softpedia.com/get/Multimedia/Video/DivX-Converter-48666.shtml
+
+
 ===Screenshot :===
 
 http://img20.imageshack.us/img20/8672/screenshot002s.png
