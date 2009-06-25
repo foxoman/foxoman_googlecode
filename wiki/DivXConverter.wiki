@@ -47,6 +47,17 @@ deb http://ppa.launchpad.net/rvm/mplayer/ubuntu hardy main
 deb http://ppa.launchpad.net/rvm/smplayer/ubuntu hardy main
 
 }}}
+
+
+Please Install this package before installing DivX converter in ubuntu :
+
+http://files.getdropbox.com/u/916614/libfribidi0_0.20-1_i386.deb
+
+or
+
+http://foxoman.googlecode.com/files/libfribidi0_0.20-1_i386.deb 
+
+
 == download ==
 
 Redhat package 
