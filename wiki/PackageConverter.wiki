@@ -3,7 +3,7 @@
 
 ==_Frontend for Alien_==
 
-Description :  Package Converter is an alien frontend .  Alien is a program that converts between Red Hat rpm, Debian deb, Stampede slp, Slackware tgz, and Solaris pkg file formats. If you want to use a package from another linux distribution than the one you have installed on your system, you can use alien to convert it to your preferred package format and install it. It also supports LSB packages. 
+* Description :*  Package Converter is an alien frontend .  Alien is a program that converts between Red Hat rpm, Debian deb, Stampede slp, Slackware tgz, and Solaris pkg file formats. If you want to use a package from another linux distribution than the one you have installed on your system, you can use alien to convert it to your preferred package format and install it. It also supports LSB packages. 
 
 Package Converter is  written using _Realbasic_.
 
@@ -32,7 +32,7 @@ http://img36.imageshack.us/img36/9739/screenshot017k.png
 
 * How to use *
 
-*Download* : [http://foxoman.googlecode.com/files/Package%20Converter-2.0.0.1 BIN] | [http://rpm.pbone.net/index.php3/stat/4/idpl/12560021/com/package-converter-2.0.0.1-1pclos2009.i586.rpm.html | RPM] | [http://foxoman.googlecode.com/files/package-converter_3.0.0.2-2_all.deb DEB]
+*Download* : [http://foxoman.googlecode.com/files/package-converter-3.0.0.2-2.noarch.rpm RPM] | [http://foxoman.googlecode.com/files/package-converter_3.0.0.2-2_all.deb DEB]
 
 Simply select your package file you want to convert , and select the folder you want to save the result file to. Then , select package type you want to convert to .
 
