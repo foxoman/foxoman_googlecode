@@ -1,6 +1,8 @@
 #labels Featured,Phase-Implementation,Phase-Requirements
 = Package Converter =
 
+=== _Package Converter 3 is out [ 4/july/2009 ]_ ===
+
 ==_Frontend for Alien_==
 
 * Description :*  Package Converter is an alien frontend .  Alien is a program that converts between Red Hat rpm, Debian deb, Stampede slp, Slackware tgz, and Solaris pkg file formats. If you want to use a package from another linux distribution than the one you have installed on your system, you can use alien to convert it to your preferred package format and install it. It also supports LSB packages. 
