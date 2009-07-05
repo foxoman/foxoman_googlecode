@@ -10,6 +10,9 @@
 Package Converter is  written using _Realbasic_.
 
 
+* Softpedia Download and review page *
+
+[http://linux.softpedia.com/get/System/Software-Distribution/Package-Converter-46633.shtml http://www.softpedia.com/images/softpedia_download_small.gif]
 
 === Dependency :===
   * alien
@@ -49,8 +52,3 @@ Then , select rpm in package type list , and click convert !
 * Bug Report *
 
 Feel Free to report any bugs or suggestion in [http://code.google.com/p/foxoman/issues/list issues] page 
-
-
-* Softpedia Download and review page * _[ Not Updated Yet]_
-
-[http://linux.softpedia.com/get/System/Software-Distribution/Package-Converter-46633.shtml http://www.softpedia.com/images/softpedia_download_small.gif]
