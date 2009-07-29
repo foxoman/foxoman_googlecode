@@ -80,3 +80,7 @@ Wait a few seconds before clicking on C :)
 * Bug Report *
 
 Feel Free to report any bugs or suggestion in [http://code.google.com/p/foxoman/issues/list issues] page 
+
+== ubuntu forums ==
+
+http://ubuntuforums.org/showthread.php?p=7700487
