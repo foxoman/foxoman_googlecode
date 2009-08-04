@@ -1,6 +1,8 @@
 #summary Easily add APT sources line and manage apt repositories
 #labels Featured
 
+
+
 = Introduction =
 
 APT Sources Manager is a free software to easily add APT sources line and manage apt repositories for linux mint user and ubuntu newbie .! 
@@ -40,3 +42,8 @@ http://files.getdropbox.com/u/916614/apt/screenshot_068.png
 = Download =
 
 [http://foxoman.googlecode.com/files/apt-sources-manager_1.0-1_all.deb DEB]
+
+
+=== notice ===
+
+This application could help you until mint team fix software sources .!
