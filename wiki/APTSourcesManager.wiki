@@ -19,7 +19,7 @@ http://files.getdropbox.com/u/916614/apt/screenshot_067.png
 
 
   # Reload the system (( Update ))
-  # Repositories Editor (( syanptic ))
+  # Repositories Editor (( synaptic ))
   # APT key Editor 
   # Open Sources.list file in gedit
   # Add CDROM to source list
@@ -31,6 +31,11 @@ http://files.getdropbox.com/u/916614/apt/screenshot_067.png
 
 http://files.getdropbox.com/u/916614/apt/screenshot_012.png
 
+_ In ubuntu this application is replaced by Software sources .!_
+
+* How to start it *
+
+http://files.getdropbox.com/u/916614/apt/screenshot_068.png
 
 = Download =
 
