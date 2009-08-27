@@ -1,5 +1,13 @@
 #labels Phase-Deploy,Phase-Requirements,Featured
-DivX Converter 1.0.0 final Release :
+DivX Converter 1.5 beta 1 
+
+
+* New in 1.5 beta version *
+
++ New status bar (( no more mencoder window )
+
++ improve conversion profile
+
 
 
 *This Application is approved by softpedia *
@@ -9,7 +17,7 @@ http://linux.softpedia.com/get/Multimedia/Video/DivX-Converter-48666.shtml
 
 ===Screenshot :===
 
-http://img20.imageshack.us/img20/8672/screenshot002s.png
+http://dl.getdropbox.com/u/916614/rb/screenshot_014.png
 
 == Description and Overview ==
 
@@ -28,11 +36,8 @@ http://foxoman.googlecode.com/files/divx-doc.pdf
 
 ===Dependency :===
 mencoder
-xterm
-lame
-xvid
-fribidi
-other codecs .
+libfribidi0
+
 Hint :  In usual cases the application will install these component it self but if you encounter any problem check these dependency manually .
 
 {{{
@@ -55,22 +60,22 @@ deb http://ppa.launchpad.net/rvm/smplayer/ubuntu hardy main
 }}}
 
 
-Please Install this package before installing DivX converter in ubuntu :
 
-http://files.getdropbox.com/u/916614/libfribidi0_0.20-1_i386.deb
-
-or
-
-http://foxoman.googlecode.com/files/libfribidi0_0.20-1_i386.deb 
 
 
 == download ==
 
 Redhat package 
 
-http://foxoman.googlecode.com/files/divxconverter-1.0.0f1-2.i386.rpm
+http://foxoman.googlecode.com/files/divxconverter-1.5.0b1-1.i386.rpm
 
 
 Debian package
 
-http://foxoman.googlecode.com/files/divxconverter-1.0.0f1-2.i386.deb
+http://foxoman.googlecode.com/files/divxconverter-1.5.0b1-1.i386.deb
+
+
+
+if you encounter a problem about libfribidi download this file :
+
+http://foxoman.googlecode.com/files/libfribidi0_0.20-1_i386.deb 
