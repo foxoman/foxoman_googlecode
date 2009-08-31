@@ -1,0 +1,35 @@
+#summary Ubuntu Newbie Helper
+#labels Featured,Phase-Deploy
+
+= Introduction =
+
+Hello ubuntu is an ubuntu newbie helper , with this application he will install most essential application and codecs, and windows fonts .! This DEB file contain 300 + of windows fonts + GUI ti install codecs and other software , also this deb will install medibuntu repository .! 
+
+
+== Arabic Only ==
+
+
+== ScreenShot ==
+
+
+http://www.omania2.net/avb/attachment.php?attachmentid=233086&d=1251745365
+
+http://www.omania2.net/avb/attachment.php?attachmentid=233087&d=1251745365
+
+http://www.omania2.net/avb/attachment.php?attachmentid=233088&d=1251745365
+
+http://www.linuxac.org/forum/attachments/forum13/8936d1251752640-screenshot_019.png
+
+http://www.linuxac.org/forum/attachments/forum13/8937d1251752653-screenshot_020.png
+
+
+
+== Download ==
+
+http://foxoman.googlecode.com/files/hello-ubuntu-1.0-1.i386.deb
+
+
+
+ == Forum discussion == 
+
+http://www.linuxac.org/forum/linuxac13/thread29652.html
