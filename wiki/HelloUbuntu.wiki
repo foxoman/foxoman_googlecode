@@ -1,5 +1,8 @@
-#summary Ubuntu Newbie Helper
+#summary Ubuntu Newbie Helper Version 2
 #labels Featured,Phase-Deploy
+
+
+ === Version 2.0 ===
 
 = Introduction =
 
@@ -8,28 +11,69 @@ Hello ubuntu is an ubuntu newbie helper , with this application he will install 
 
 == Arabic Only ==
 
+السلام عليكم ورحمة الله تعالى وبركاته
+
+بحمد من الله وفضله نعلن عن الإ صدارة الثانية من برنامج "أهلا اوبينتو" و الذي اتمنى ان تكون هذه الإصدارة أكثر إستقرارا من النسخه السابقة و  كذلك أفضل و اكثر مميزات من سابقتها .!
+
+أهلا اوبينتو
+
+برنامج للمبتدئين و المستخدمين العرب لنظام أوبينتو لينكس ، بحيث يسهل عليهم تنصيب الاساسيات من البرامج و الملحقات لجعل النظام قابل للإستخدام اليومي و الرئيسي ،،
+
+من خلال هذا البرنامج تستطيع تنصيب جميع الكودكس اللازمة لتشغيل الصوتيات و المرئيات و محولات الصوت و الفيديو بضغطة زر فقط ، كما تستطيع تنصيب الخطوط و الجافا و الفلاش و اللغة العربية و المؤثرات و الكماليات التجميلية و الكثير من البرامج الاساسية ،،
+
+
+محتويات ملف التنصيب
+
+اكثر من ٣٠٠ خط من خطوط الوندوز العربية و الاجنبية .!
+مجموعة كتب عربية و اجنبية .!
+برنامج أهلا أوبينتو .!
+مخازن ميدي بنتو + مخازن ubuntu tweak + gnome colors + shutter + blueman
+
+
+
+تنصيب البرنامج 
+
+1.حمل ملف التنصيب من هنا
+2.دبل كلك على البرنامج و اضغط تثبيت او install
+3.حدث نظامك من خلال ايقونة التحديث في شريط النظام (( خطوة مهمه ))
+4.لتشغيل البرنامج اذهب الى قائمة تطبيقات – ملحقات – أهلا اوبينتو
+أو
+Application – Accessories – Hello ubuntu
+
+
+الجديد في النسخه ٢
+
+1.تنصيب مخازن اضافية (مخازن ubuntu tweak + gnome colors + shutter + blueman)
+2.تحديث شروحات قسم اللغة ولوحة المفاتيح
+3.دعم كودكس ٤٦ بت في قسم الكودكس
+4.اضافة ايقونة تنصيب طقم ثيمات gnome colors في قسم المؤثرات و الكماليات
+5.اضافة الكثير من البرامج في قسم البرامج 
+6.ايقونات التنقل السريع بين الاقسام في الشريط السفلي 
+7.التعرف على نسخه الاوبينتو لديك و طباعتها في البنر العلوي اسفل كلمة ubuntu 
+كما ترى ان نسختى هي ubuntu 8.0.4.3 LTS hardy
+
+
+صور للبرنامج
 
 == ScreenShot ==
+http://dl.getdropbox.com/u/916614/hello/screenshot_047.png
+http://dl.getdropbox.com/u/916614/hello/screenshot_048.png
+http://dl.getdropbox.com/u/916614/hello/screenshot_049.png
+http://dl.getdropbox.com/u/916614/hello/screenshot_050.png
+http://dl.getdropbox.com/u/916614/hello/screenshot_051.png
+http://dl.getdropbox.com/u/916614/hello/screenshot_052.png
+http://dl.getdropbox.com/u/916614/hello/screenshot_053.png
+http://dl.getdropbox.com/u/916614/hello/screenshot_054.png
 
-
-http://www.omania2.net/avb/attachment.php?attachmentid=233086&d=1251745365
-
-http://www.omania2.net/avb/attachment.php?attachmentid=233087&d=1251745365
-
-http://www.omania2.net/avb/attachment.php?attachmentid=233088&d=1251745365
-
-http://www.linuxac.org/forum/attachments/forum13/8936d1251752640-screenshot_019.png
-
-http://www.linuxac.org/forum/attachments/forum13/8937d1251752653-screenshot_020.png
 
 
 
 == Download ==
 
-http://foxoman.googlecode.com/files/hello-ubuntu-1.0-1.i386.deb
+http://foxoman.googlecode.com/files/hello-ubuntu-2.0-1.all.deb
 
 
 
  == Forum discussion == 
 
-http://www.linuxac.org/forum/linuxac13/thread29652.html
+# TODO
