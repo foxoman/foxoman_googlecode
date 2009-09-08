@@ -76,4 +76,4 @@ http://foxoman.googlecode.com/files/hello-ubuntu-2.0-1.all.deb
 
  == Forum discussion == 
 
-# TODO
+http://www.linuxac.org/forum/linuxac13/thread29954.html
