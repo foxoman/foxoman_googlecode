@@ -1,5 +1,5 @@
 #labels Phase-Deploy,Phase-Requirements,Featured
-DivX Converter 1.5 beta 1 
+== DivX Converter 1.5 Final ==
 
 
 * New in 1.5 beta version *
@@ -33,6 +33,7 @@ http://foxoman.googlecode.com/files/divx-doc.pdf
   #  Has many different filters to convert to LIKE : High Quality DivX ,  HDTV , NTSC , PAL and Custom  AVI filters.
   #  You can merge your subtitle to your favorite video, with many encoding support .
   #  Drag and drop support.
+  #  ubuntu 64 bit support
 
 ===Dependency :===
 mencoder
@@ -40,8 +41,19 @@ libfribidi0
 
 Hint :  In usual cases the application will install these component it self but if you encounter any problem check these dependency manually .
 
+== 64 bit support ==
+
+Install these extra packages ib ubuntu :
+
+libc6-i386
+
+ia32-libs
+
+
+
 {{{
-If You encounter any problem with dependency install this repo
+_ For latest mencoder and it's dependencies enable these repository_
+
 ubuntu 9.04 juanty
 deb http://ppa.launchpad.net/rvm/libs/ubuntu jaunty main
 deb http://ppa.launchpad.net/rvm/mplayer/ubuntu jaunty main
@@ -67,15 +79,15 @@ deb http://ppa.launchpad.net/rvm/smplayer/ubuntu hardy main
 
 Redhat package 
 
-http://foxoman.googlecode.com/files/divxconverter-1.5.0b1-1.i386.rpm
+http://foxoman.googlecode.com/files/divxconverter-1.5.1-1.noarch.rpm
 
 
 Debian package
 
-http://foxoman.googlecode.com/files/divxconverter-1.5.0b1-1.i386.deb
+http://foxoman.googlecode.com/files/divxconverter_1.5.1-1_all.deb
 
 
 
-if you encounter a problem about libfribidi download this file :
+_If you encounter a problem about libfribidi download this file :_
 
 http://foxoman.googlecode.com/files/libfribidi0_0.20-1_i386.deb 
