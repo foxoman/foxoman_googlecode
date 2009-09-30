@@ -51,10 +51,10 @@ libc6-i386
 
 ia32-libs
 
-
+*_ For latest mencoder and it's dependencies enable these repository_*
 
 {{{
-_ For latest mencoder and it's dependencies enable these repository_
+
 
 ubuntu 9.04 juanty
 deb http://ppa.launchpad.net/rvm/libs/ubuntu jaunty main
