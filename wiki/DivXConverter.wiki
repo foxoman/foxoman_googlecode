@@ -2,11 +2,13 @@
 == DivX Converter 1.5 Final ==
 
 
-* New in 1.5 beta version *
+* New in 1.5 final version *
 
 + New status bar (( no more mencoder window )
 
 + improve conversion profile
+
++ Ubuntu 64 bit support
 
 
 
