@@ -93,3 +93,9 @@ http://foxoman.googlecode.com/files/divxconverter_1.5.1-1_all.deb
 _If you encounter a problem about libfribidi download this file :_
 
 http://foxoman.googlecode.com/files/libfribidi0_0.20-1_i386.deb 
+
+
+
+== Previous Version :==
+
+http://foxoman.googlecode.com/files/divxconverter-1.0.0f1-2.i386.deb
