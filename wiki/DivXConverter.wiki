@@ -1,25 +1,46 @@
 #labels Phase-Deploy,Phase-Requirements,Featured
-== DivX Converter 1.5 Final ==
+== DivX Converter 2.0 beta ==
 
-
-* New in 1.5 final version *
-
-+ New status bar (( no more mencoder window )
-
-+ improve conversion profile
-
-+ Ubuntu 64 bit support
+http://dl.dropbox.com/u/3005566/beta2.png
 
 
 
-*This Application is approved by softpedia *
+== New in V 2.0  beta :==
+# complete rewritten using pygtk [ python and GTK+ ]  from realbasic
+# Multi file conversion
+# now you can choose your system font for subtitle encoding 
+# subtitle scale [ size]
+# advance feature [custom]
+# new progress window with a screen shot and encoding information
+# system notification
+# system try icon menu
+# a lot of user experience improvement
+# move log file to user home
+
+
+== Known issues :==
+
+# some file or codec causing GUI crash
+# subtitle file path and name must not contain a space otherwise it will not be recognize
+# subtitle font name must be  in one grouped word only  .!
+*IE : arial , freeserif,  nazli …...  [this good font]*
+
+*IE: droid sans ,  blue highway, DejaVu sans …. [this is wrong font and will not be recognize because it contain space  ]*
+
+
+
+*This Application is approved by softpedia * [ old ]
 
 http://linux.softpedia.com/get/Multimedia/Video/DivX-Converter-48666.shtml
 
 
 ===Screenshot :===
 
-http://dl.getdropbox.com/u/916614/rb/screenshot_014.png
+http://foxoman.files.wordpress.com/2009/12/screenshot_005.png
+
+http://foxoman.files.wordpress.com/2009/12/screenshot_008.png
+
+http://foxoman.files.wordpress.com/2009/12/screenshot_011.png
 
 == Description and Overview ==
 
@@ -34,45 +55,13 @@ http://foxoman.googlecode.com/files/divx-doc.pdf
   #  Convert variety type of video format to avi LIKE : ra;ram;rm;rmvb;moov;mov;qt;mqv;ogg;ogv;m4v;dv;dif;wmv;wma;wm;asf;ass;wvx;wmx;wax;asx;mpe;mpeg;mpg;m1s;m1v;m1a;m75;m15;mp2;mpm;mpv;mpa;3gp;3gpp;avi;vfw;avi;sdv;dat;flv
   #  Has many different filters to convert to LIKE : High Quality DivX ,  HDTV , NTSC , PAL and Custom  AVI filters.
   #  You can merge your subtitle to your favorite video, with many encoding support .
-  #  Drag and drop support.
-  #  ubuntu 64 bit support
+
 
 ===Dependency :===
 mencoder
 libfribidi0
 
 Hint :  In usual cases the application will install these component it self but if you encounter any problem check these dependency manually .
-
-== 64 bit support ==
-
-Install these extra packages ib ubuntu :
-
-libc6-i386
-
-ia32-libs
-
-*_ For latest mencoder and it's dependencies enable these repository_*
-
-{{{
-
-
-ubuntu 9.04 juanty
-deb http://ppa.launchpad.net/rvm/libs/ubuntu jaunty main
-deb http://ppa.launchpad.net/rvm/mplayer/ubuntu jaunty main
-deb http://ppa.launchpad.net/rvm/smplayer/ubuntu jaunty main
-
-ubuntu 8.10 interpid
-deb http://ppa.launchpad.net/rvm/libs/ubuntu intrepid main
-deb http://ppa.launchpad.net/rvm/mplayer/ubuntu intrepid main
-deb http://ppa.launchpad.net/rvm/smplayer/ubuntu intrepid main
-
-ubuntu 8.04 hardy
-deb http://ppa.launchpad.net/rvm/libs/ubuntu hardy main
-deb http://ppa.launchpad.net/rvm/mplayer/ubuntu hardy main
-deb http://ppa.launchpad.net/rvm/smplayer/ubuntu hardy main
-
-}}}
-
 
 
 
@@ -81,21 +70,15 @@ deb http://ppa.launchpad.net/rvm/smplayer/ubuntu hardy main
 
 Redhat package 
 
-http://foxoman.googlecode.com/files/divxconverter-1.5.1-1.noarch.rpm
+http://foxoman.googlecode.com/files/divxconverter-2.0-beta1.noarch.rpm
 
 
 Debian package
 
-http://foxoman.googlecode.com/files/divxconverter_1.5.1-1_all.deb
+http://foxoman.googlecode.com/files/divxconverter_2.0-beta1_all.deb
 
 
 
 _If you encounter a problem about libfribidi download this file :_
 
 http://foxoman.googlecode.com/files/libfribidi0_0.20-1_i386.deb 
-
-
-
-== Previous Version :==
-
-http://foxoman.googlecode.com/files/divxconverter-1.0.0f1-2.i386.deb
