@@ -6,26 +6,29 @@ http://dl.dropbox.com/u/3005566/beta2.png
 
 
 == New in V 2.0  beta :==
-# complete rewritten using pygtk [ python and GTK+ ]  from realbasic
-# Multi file conversion
-# now you can choose your system font for subtitle encoding 
-# subtitle scale [ size]
-# advance feature [custom]
-# new progress window with a screen shot and encoding information
-# system notification
-# system try icon menu
-# a lot of user experience improvement
-# move log file to user home
+  # complete rewritten using pygtk [ python and GTK+ ]  from realbasic
+  # Multi file conversion
+  # now you can choose your system font for subtitle encoding 
+  # subtitle scale [ size]
+  # advance feature [custom]
+  # new progress window with a screen shot and encoding information
+  # system notification
+  # system try icon menu
+  # a lot of user experience improvement
+  # move log file to user home
 
 
 == Known issues :==
 
-# some file or codec causing GUI crash
-# subtitle file path and name must not contain a space otherwise it will not be recognize
-# subtitle font name must be  in one grouped word only  .!
-*IE : arial , freeserif,  nazli …...  [this good font]*
+  # some file or codec causing GUI crash
+  # subtitle file path and name must not contain a space otherwise it will not be recognize
+  # subtitle font name must be  in one grouped word only  .!
 
-*IE: droid sans ,  blue highway, DejaVu sans …. [this is wrong font and will not be recognize because it contain space  ]*
+
+  *IE : arial , freeserif,  nazli …...  [this good font]*
+
+
+  *IE: droid sans ,  blue highway, DejaVu sans …. [this is wrong font and will not be recognize because it contain space  ]*
 
 
 
