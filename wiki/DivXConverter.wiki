@@ -1,9 +1,14 @@
 #labels Phase-Deploy,Phase-Requirements,Featured
-== DivX Converter 2.0 beta ==
-
-http://dl.dropbox.com/u/3005566/beta2.png
+== DivX Converter 2.0 RC ==
 
 
+== New in v 2.0 RC ==
+
+  * Multi Core threading support
+  * Lower CPU Usage
+  * DivX 5 Support
+  * New 8 Preset
+  * New Video and Audio Filters
 
 == New in V 2.0  beta :==
   # complete rewritten using pygtk [ python and GTK+ ]  from realbasic
@@ -20,7 +25,6 @@ http://dl.dropbox.com/u/3005566/beta2.png
 
 == Known issues :==
 
-  # some file or codec causing GUI crash
   # subtitle file path and name must not contain a space otherwise it will not be recognize
   # subtitle font name must be  in one grouped word only  .!
 
@@ -39,6 +43,12 @@ http://linux.softpedia.com/get/Multimedia/Video/DivX-Converter-48666.shtml
 
 ===Screenshot :===
 
+RC
+
+http://foxoman.files.wordpress.com/2009/12/screenshot_023.png
+
+Beta
+
 http://foxoman.files.wordpress.com/2009/12/screenshot_005.png
 
 http://foxoman.files.wordpress.com/2009/12/screenshot_008.png
@@ -47,7 +57,7 @@ http://foxoman.files.wordpress.com/2009/12/screenshot_011.png
 
 == Description and Overview ==
 
-DivX converter is a simple Mencoder GUI to Produce DivX Player Compatible video format with subtitle attach . It support Copy AVI ( Same parameters as source file ) , HDTV, NTSC and PAL format .
+DivX converter is a simple Mencoder GUI to Produce Hight Quality DivX Player Compatible Video format with subtitle attach . It support Many video and audio Filters and 9 preset . 
 
 *Download the documentation :* 
 
@@ -71,14 +81,11 @@ Hint :  In usual cases the application will install these component it self but 
 
 == download ==
 
-Redhat package 
-
-http://foxoman.googlecode.com/files/divxconverter-2.0-beta1.noarch.rpm
 
 
 Debian package
 
-http://foxoman.googlecode.com/files/divxconverter_2.0-beta1_all.deb
+http://foxoman.googlecode.com/files/divxconverter_2.0-rc1_all.deb
 
 
 
