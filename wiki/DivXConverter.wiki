@@ -1,6 +1,9 @@
 #labels Phase-Deploy,Phase-Requirements,Featured
 == DivX Converter 2.0 RC ==
 
+== New in V 2.0 RC 2 ==
+
+  * Quik Fix Fix application path not found
 
 == New in v 2.0 RC ==
 
@@ -84,6 +87,12 @@ Hint :  In usual cases the application will install these component it self but 
 
 
 Debian package
+
+RC 2
+
+http://foxoman.googlecode.com/files/divxconverter_2.0-rc1_all.deb
+
+RC 1
 
 http://foxoman.googlecode.com/files/divxconverter_2.0-rc1_all.deb
 
