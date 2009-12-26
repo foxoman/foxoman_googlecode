@@ -1,5 +1,5 @@
 #labels Phase-Deploy,Phase-Requirements,Featured
-== DivX Converter 2.0 RC ==
+== DivX Converter 2.0 RC 2 ==
 
 == New in V 2.0 RC 2 ==
 
