@@ -36,7 +36,7 @@
 
 
 
-*This Application is approved by softpedia * [ old ]
+*This Application is approved by softpedia * 
 
 http://linux.softpedia.com/get/Multimedia/Video/DivX-Converter-48666.shtml
 
@@ -47,9 +47,7 @@ RC
 
 http://foxoman.files.wordpress.com/2009/12/screenshot_023.png
 
-Beta
 
-http://foxoman.files.wordpress.com/2009/12/screenshot_005.png
 
 http://foxoman.files.wordpress.com/2009/12/screenshot_008.png
 
