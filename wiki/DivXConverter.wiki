@@ -64,7 +64,9 @@ http://foxoman.googlecode.com/files/divx-doc.pdf
 ===List Of Feature :===
   #  Easy GUI
   #  Convert variety type of video format to avi LIKE : ra;ram;rm;rmvb;moov;mov;qt;mqv;ogg;ogv;m4v;dv;dif;wmv;wma;wm;asf;ass;wvx;wmx;wax;asx;mpe;mpeg;mpg;m1s;m1v;m1a;m75;m15;mp2;mpm;mpv;mpa;3gp;3gpp;avi;vfw;avi;sdv;dat;flv
-  #  Has many different filters to convert to LIKE : High Quality DivX ,  HDTV , NTSC , PAL and Custom  AVI filters.
+  #  Has many Preset from normal to hight quality Divx
+  #  Support divX 5
+  #  many video and audio filters
   #  You can merge your subtitle to your favorite video, with many encoding support .
 
 
