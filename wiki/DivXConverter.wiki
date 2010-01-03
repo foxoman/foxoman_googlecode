@@ -1,5 +1,22 @@
 #labels Phase-Deploy,Phase-Requirements,Featured
-== DivX Converter 2.0 RC 2 ==
+== DivX Converter 2.0 RC 3 pre final ==
+
+== New in v 2.0 RC 3
+
+http://foxoman.files.wordpress.com/2010/01/divx-converter-2-0.png
+
+divxconverter (2.0-rc3) experimental; urgency=high
+
+  * New easy look [new inteface]
+  * Add alpha black background [subtitle]
+  * Add sample rate [Audio filters]
+  * Add Harddup and softskip [Video Filters]
+  * add Postprocessing filters [video filters]
+  * add HQ denoiser filter[video filters]
+  * fixing a few bugs -)
+  * Multi-Language support [ english and arabic ] [Your language ? Download the .pot file and translate it to your language for the final relaese.!
+  * hope to be the last RC before the final 
+
 
 == New in V 2.0 RC 2 ==
 
@@ -48,8 +65,11 @@ http://linux.softpedia.com/get/Multimedia/Video/DivX-Converter-48666.shtml
 
 RC
 
-http://foxoman.files.wordpress.com/2009/12/screenshot_023.png
+http://foxoman.files.wordpress.com/2010/01/screenshot_034.png
 
+http://foxoman.files.wordpress.com/2010/01/screenshot_035.png
+
+http://foxoman.files.wordpress.com/2010/01/screenshot_036.png
 
 
 http://foxoman.files.wordpress.com/2009/12/screenshot_008.png
@@ -88,16 +108,25 @@ Hint :  In usual cases the application will install these component it self but 
 
 Debian package
 
-RC 2
 
-http://foxoman.googlecode.com/files/divxconverter_2.0-rc2_all.deb
+http://foxoman.googlecode.com/files/divxconverter_2.0-rc3_all.deb
 
-RC 1
-
-http://foxoman.googlecode.com/files/divxconverter_2.0-rc1_all.deb
+redhat package
 
 
+http://foxoman.googlecode.com/files/divxconverter-2.0-rc3.noarch.rpm
 
-_If you encounter a problem about libfribidi download this file :_
 
-http://foxoman.googlecode.com/files/libfribidi0_0.20-1_i386.deb 
+source code :
+
+http://foxoman.googlecode.com/files/divxconverter-2.0-rc3-src.tgz
+
+
+PO language template file :
+
+http://foxoman.googlecode.com/files/divxc.po
+
+
+I will wait one week before the final release and any finished translation will be included in the final 
+
+Upload your translation in the comments 
