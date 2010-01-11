@@ -1,9 +1,15 @@
 #labels Phase-Deploy,Phase-Requirements,Featured
-== DivX Converter 2.0 RC 3 pre final ==
+== DivX Converter 2.0 final ==
 
-== New in v 2.0 RC 3
 
-http://foxoman.files.wordpress.com/2010/01/divx-converter-2-0.png
+== New in 2.0 final ==
+
+   * Help manual
+   * GUI and encoding optimized
+   * a few bug fixing
+
+== New in v 2.0 RC 3 ==
+
 
 divxconverter (2.0-rc3) experimental; urgency=high
 
@@ -63,39 +69,36 @@ http://linux.softpedia.com/get/Multimedia/Video/DivX-Converter-48666.shtml
 
 ===Screenshot :===
 
-RC
+http://foxoman.files.wordpress.com/2010/01/screenshot_050.png
 
-http://foxoman.files.wordpress.com/2010/01/screenshot_034.png
+http://foxoman.files.wordpress.com/2010/01/screenshot_051.png
 
-http://foxoman.files.wordpress.com/2010/01/screenshot_035.png
-
-http://foxoman.files.wordpress.com/2010/01/screenshot_036.png
-
-
-http://foxoman.files.wordpress.com/2009/12/screenshot_008.png
-
-http://foxoman.files.wordpress.com/2009/12/screenshot_011.png
+http://foxoman.files.wordpress.com/2010/01/screenshot_054.png
 
 == Description and Overview ==
 
-DivX converter is a simple Mencoder GUI to Produce Hight Quality DivX Player Compatible Video format with subtitle attach . It support Many video and audio Filters and 9 preset . 
-
-*Download the documentation :* 
-
-http://foxoman.googlecode.com/files/divx-doc.pdf
+DivX converter is a simple Mencoder frontend to Produce DivX Player Compatible AVI video format with the ability to merge subtitles . It support many video and audio filters and many presets.
 
 ===List Of Feature :===
-  #  Easy GUI
-  #  Convert variety type of video format to avi LIKE : ra;ram;rm;rmvb;moov;mov;qt;mqv;ogg;ogv;m4v;dv;dif;wmv;wma;wm;asf;ass;wvx;wmx;wax;asx;mpe;mpeg;mpg;m1s;m1v;m1a;m75;m15;mp2;mpm;mpv;mpa;3gp;3gpp;avi;vfw;avi;sdv;dat;flv
-  #  Has many Preset from normal to hight quality Divx
-  #  Support divX 5
-  #  many video and audio filters
-  #  You can merge your subtitle to your favorite video, with many encoding support .
+   # Clean and Easy Interface
+   # Convert variety type of video format to avi
+   # Support DivX 4/5 , H.264 and Xvid Video codecs
+   # Support MP3, AC3 and ACC audio codecs
+   # You can merge your subtitle to your favorite video, with many Language Encoding support .
+   # Multifile conversion
+   # Screenshot and use-full information about the file being convert 
+   # 9 quality preset 
+   # Many video and audio filters
+   # Multi-Core threading support
 
 
 ===Dependency :===
-mencoder
-libfribidi0
+
+   # Mencoder < Using lavc (divx, x264, xvid) and mp3lame, facc, ac3 >
+   # libfribidi0 < BiDi algorithm implementation for Hebrew and/or Arabic >
+   # ffmpeg2theora < to create the screenshot >
+   # PyGTK < python and GTK+ >
+   # zenity < popup dialog >
 
 Hint :  In usual cases the application will install these component it self but if you encounter any problem check these dependency manually .
 
@@ -109,24 +112,22 @@ Hint :  In usual cases the application will install these component it self but 
 Debian package
 
 
-http://foxoman.googlecode.com/files/divxconverter_2.0-rc3_all.deb
+http://foxoman.googlecode.com/files/divxconverter_2.0.1-1_all.deb
 
 redhat package
 
 
-http://foxoman.googlecode.com/files/divxconverter-2.0-rc3.noarch.rpm
+not yet
 
 
 source code :
 
-http://foxoman.googlecode.com/files/divxconverter-2.0-rc3-src.tgz
+http://foxoman.googlecode.com/files/divxconverter_2.0.1-1_all.tar.gz
 
 
 PO language template file :
 
 http://foxoman.googlecode.com/files/divxc.po
 
-
-I will wait one week before the final release and any finished translation will be included in the final 
 
 Upload your translation in the comments 
