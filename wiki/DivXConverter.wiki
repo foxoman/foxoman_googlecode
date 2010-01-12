@@ -22,6 +22,7 @@ DivX converter is a simple Mencoder frontend to Produce DivX Player Compatible A
    * Help manual
    * GUI and encoding optimized
    * a few bug fixing
+   * spanish translation 
 
 == New in v 2.0 RC 3 ==
 
