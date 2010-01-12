@@ -1,6 +1,21 @@
 #labels Phase-Deploy,Phase-Requirements,Featured
 == DivX Converter 2.0 final ==
 
+== Description and Overview ==
+
+DivX converter is a simple Mencoder frontend to Produce DivX Player Compatible AVI video format with the ability to merge subtitles . It support many video and audio filters and many presets.
+
+===List Of Feature :===
+   # Clean and Easy Interface
+   # Convert variety type of video format to avi
+   # Support DivX 4/5 , H.264 and Xvid Video codecs
+   # Support MP3, AC3 and ACC audio codecs
+   # You can merge your subtitle to your favorite video, with many Language Encoding support .
+   # Multifile conversion
+   # Screenshot and use-full information about the file being convert 
+   # 9 quality preset 
+   # Many video and audio filters
+   # Multi-Core threading support
 
 == New in 2.0 final ==
 
@@ -75,21 +90,7 @@ http://foxoman.files.wordpress.com/2010/01/screenshot_051.png
 
 http://foxoman.files.wordpress.com/2010/01/screenshot_054.png
 
-== Description and Overview ==
 
-DivX converter is a simple Mencoder frontend to Produce DivX Player Compatible AVI video format with the ability to merge subtitles . It support many video and audio filters and many presets.
-
-===List Of Feature :===
-   # Clean and Easy Interface
-   # Convert variety type of video format to avi
-   # Support DivX 4/5 , H.264 and Xvid Video codecs
-   # Support MP3, AC3 and ACC audio codecs
-   # You can merge your subtitle to your favorite video, with many Language Encoding support .
-   # Multifile conversion
-   # Screenshot and use-full information about the file being convert 
-   # 9 quality preset 
-   # Many video and audio filters
-   # Multi-Core threading support
 
 
 ===Dependency :===
