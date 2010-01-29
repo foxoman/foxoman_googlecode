@@ -1,5 +1,14 @@
 #labels Phase-Deploy,Phase-Requirements,Featured
 == DivX Converter 2.0 final ==
+== Important ==
+
+if you can not start the application run this command in the terminal and try again 
+
+{{{
+sudo chmod -R +r /usr/share/divx-converter/ 
+}}}
+
+Thanks to  ezaffa and  apiemont and to you all :)
 
 == Description and Overview ==
 
