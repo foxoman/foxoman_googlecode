@@ -1,8 +1,10 @@
-#summary Ubuntu Newbie Helper Version 3
+#summary Ubuntu Newbie Helper Version 5
 #labels Featured,Phase-Deploy
 
 
- === Version 3.0 ===
+ === Version 5.0 ===
+
+http://foxoman.files.wordpress.com/2011/07/hello5.png?w=630&h=344
 
 = Introduction =
 
@@ -10,7 +12,7 @@ Hello Ubuntu is an Arabic Ubuntu Newbie Helper
 Hello ubuntu is an arabic ubuntu newbie helper , with this application you can install full arabic language support and the most essential application and codecs, and windows fonts .! This package include Hello Ubuntu Book , with many topics that help ubuntu newbie .! 
 
 
-http://foxoman.wordpress.com/2010/02/22/hello-ubuntu-3/
+http://foxoman.wordpress.com/2011/07/14/uhelper5/
 
 
 
@@ -25,4 +27,4 @@ http://foxoman.wordpress.com/2010/02/22/hello-ubuntu-3/
 
 
 
-http://foxoman.wordpress.com/2010/02/22/hello-ubuntu-3/
+http://foxoman.wordpress.com/2011/07/14/uhelper5/
